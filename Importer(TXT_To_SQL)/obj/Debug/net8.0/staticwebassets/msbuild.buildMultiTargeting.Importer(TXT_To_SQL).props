@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Importer(TXT_To_SQL).props" />
+</Project>

@@ -1,0 +1,77 @@
+﻿@model Entities.VM.MovieInfoVM
+<h2>File(s) uploaded and processed successfully!</h2>
+
+<p>@Model.MoviesCount records have been inserted into the Movie table. Here are the first 3 rows:</p>
+<table>
+    <thead>
+        <tr>
+            <th>Movie ID</th>
+            <th>Title</th>
+            <th>Release Date</th>
+            <!-- Add additional columns here as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model.Movies)
+        {
+            <tr>
+                <td>@movie.MovieID</td>
+                <td>@movie.Title</td>
+                <td>@movie.ReleaseDate.ToShortDateString()</td>
+                <!-- Add additional cells here as needed -->
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>@Model.RatingsCount records have been inserted into the Rating table. Here are the first 3 rows:</p>
+<table>
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Movie ID</th>
+            <th>Rating Value</th>
+            <th>Timestamp</th>
+            <!-- Add additional columns here as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var rating in Model.Ratings)
+        {
+            <tr>
+                <td>@rating.UserID</td>
+                <td>@rating.MovieID</td>
+                <td>@rating.RatingValue</td>
+                <td>@rating.Timestamp</td>
+                <!-- Add additional cells here as needed -->
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>@Model.UsersCount records have been inserted into the User table. Here are the first 3 rows:</p>
+<table>
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Occupation</th>
+            <th>Zip Code</th>
+            <!-- Add additional columns here as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.UserID</td>
+                <td>@user.Age</td>
+                <td>@user.Gender</td>
+                <td>@user.Occupation</td>
+                <td>@user.ZipCode</td>
+                <!-- Add additional cells here as needed -->
+            </tr>
+        }
+    </tbody>
+</table>

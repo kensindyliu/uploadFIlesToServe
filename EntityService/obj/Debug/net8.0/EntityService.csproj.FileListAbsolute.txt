@@ -1,0 +1,17 @@
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\bin\Debug\net8.0\EntityService.deps.json
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\bin\Debug\net8.0\EntityService.dll
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\bin\Debug\net8.0\EntityService.pdb
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\bin\Debug\net8.0\Entities.dll
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\bin\Debug\net8.0\Entities.pdb
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.csproj.AssemblyReference.cache
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.AssemblyInfoInputs.cache
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.AssemblyInfo.cs
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.csproj.CoreCompileInputs.cache
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntitySe.5BF3A481.Up2Date
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.dll
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\refint\EntityService.dll
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.pdb
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\ref\EntityService.dll
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\bin\Debug\net8.0\EntityService.runtimeconfig.json
+D:\KenVS\FinalLab_ORM\Importer(TXT_To_SQL)\EntityService\obj\Debug\net8.0\EntityService.genruntimeconfig.cache
